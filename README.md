@@ -2,7 +2,7 @@
 
 **More than 200 custom test cases**
 
-**Prepared by: Tushar Verma**
+
 
 - **Application Entry Points**
     - [ ]  Register
@@ -909,6 +909,4 @@
 
 ## **Created by: Tushar Verma(e11i0t_4lders0n)**
 
-**Contact Me: [LinkedIn](http://www.linkedin.com/in/tushars25) ,[Twitter](https://twitter.com/e11i0t_4lders0n)** 
-
-**Support me if you like my work! [Buy me a coffee](https://www.buymeacoffee.com/tushars25)**
+**Contact Me: [LinkedIn](http://www.linkedin.com/in/) ,[Twitter](https://twitter.com/)** 

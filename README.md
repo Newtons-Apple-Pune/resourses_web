@@ -890,17 +890,16 @@
         - [ ]  Encrypted Information Compromised
         - [ ]  Weak Ciphers Used for Encryption
     - Web Services Testing
-- **Burp Suite Extensions**
+- - **Burp Suite Extensions**
     - Scanners
-        - [ ]  ‣
-        - [ ]  ‣
-        - [ ]  ‣
+        - [ ]  https://github.com/albinowax/ActiveScanPlusPlus
+        - [ ]  https://github.com/portswigger/additional-scanner-checks
+        - [ ]  https://github.com/PortSwigger/backslash-powered-scanner
     - Information Gathering
-        - [ ]  ‣
-        - [ ]  ‣
-        - [ ]  ‣
-        - [ ]  ‣
-    - Vulnerability Analysis
+        - [ ]  https://github.com/capt-meelo/filter-options-method
+        - [ ]  https://github.com/moeinfatehi/Admin-Panel_Finder
+        - [ ]  https://github.com/raise-isayan/BigIPDiscover
+        - [ ]  https://github.com/P3GLEG/PwnBack
 - **Wordlists**
     - [ ]  https://wordlists.assetnote.io/
     - [ ]  https://github.com/Karanxa/Bug-Bounty-Wordlists

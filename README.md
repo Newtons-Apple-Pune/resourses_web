@@ -208,7 +208,8 @@
         - [ ]  
 - **File Upload Attacks**
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/078aa5d5-c7f7-4467-a026-7dcc1e7ab45e/9072b550-2984-45c9-9602-7d3d2147622d/Untitled.png)
+    
+    ![File Upload](./file%20upload.png)
     
     - Defaults extensions
         - PHP Server
@@ -589,7 +590,7 @@
         
     - [ ]  Use burp 'find' option in order to find parameters such as URL, red, redirect, redir, origin, redirect_uri, target etc
     - [ ]  Check the value of these parameter which may contain a URL
-    - [ ]  Change the URL value to [www.tushar.com](http://www.chintan.com/) and check if gets redirected or not
+    - [ ]  Change the URL value to any website you desire [www.xyz.com](https://crpytoscooby.github.io/) and check if gets redirected or not
     - [ ]  Try Single Slash and url encoding
     - [ ]  Using a whitelisted domain or keyword
     - [ ]  Using // to bypass http blacklisted keyword
@@ -608,10 +609,10 @@
     - [ ]  Inject host override headers
 - **Cross-Site Scripting Testing**
     - [ ]  Try XSS using QuickXSS tool by theinfosecguy
-    - [ ]  Upload file using '">#<img src=x onerror=alert(document.domain)>.txt
-    - [ ]  If script tags are banned, use #<h1> and other HTML tags
+    - [ ]  Upload file using '">```<img src=x onerror=alert(document.domain)>.txt```
+    - [ ]  If script tags are banned, use ```<h1>``` and other HTML tags
     - [ ]  If output is reflected back inside the JavaScript as a value of any variable just use alert(1)
-    - [ ]  if " are filtered then use this payload /><img src=d onerror=confirm(/tushar/);>
+    - [ ]  if " are filtered then use this payload ```<img src=d onerror=confirm(/tushar/);>```
     - [ ]  Upload a JavaScript using Image file
     - [ ]  Unusual way to execute your JS payload is to change method from POST to GET. It bypasses filters sometimes
     - Tag attribute value
@@ -907,6 +908,3 @@
     - [ ]  https://github.com/danielmiessler/SecLists
     - [ ]  https://github.com/six2dez/OneListForAll
 
-## **Created by: Tushar Verma(e11i0t_4lders0n)**
-
-**Contact Me: [LinkedIn](http://www.linkedin.com/in/) ,[Twitter](https://twitter.com/)** 

@@ -1,5 +1,3 @@
-# resourses_web
-
 # Advance Web Application Penetration Checklist
 
 **More than 200 custom test cases**
@@ -115,7 +113,7 @@
     - [ ]  Boolean Blind injection - inject parameters with true/false payloads and attempt to determine if an injection exists
     - [ ]  Timing injection - attempt to inject timing delays in the server, to measure the response
     
-    ‣
+    https://github.com/matrix/Burp-NoSQLiScanner
     
 - **Directory Traversal Attacks**
     - [ ]  16 bits Unicode encoding
@@ -818,7 +816,7 @@
     - [ ]  (CVE-2019-20933/CVE-2020-28637) Blank password vulnerability
     - [ ]  (CVE-2020-28042) Null signature vulnerability
     
-    Tool: ‣
+    Tool: https://github.com/ticarpi/jwt_tool
     
 - **Websocket Testing**
     - [ ]  Intercepting and modifying WebSocket messages
@@ -905,10 +903,10 @@
     - Vulnerability Analysis
 - **Wordlists**
     - [ ]  https://wordlists.assetnote.io/
-    - [ ]  ‣
-    - [ ]  ‣
-    - [ ]  ‣
-    - [ ]  ‣
+    - [ ]  https://github.com/Karanxa/Bug-Bounty-Wordlists
+    - [ ]  https://github.com/0xPugazh/fuzz4bounty
+    - [ ]  https://github.com/danielmiessler/SecLists
+    - [ ]  https://github.com/six2dez/OneListForAll
 
 ## **Created by: Tushar Verma(e11i0t_4lders0n)**
 
